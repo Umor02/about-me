@@ -1,0 +1,361 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: chocolate;
+    position: static;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+
+}
+ul li{
+    display: inline-block;
+ 
+    padding: 22px 34px;
+
+}
+ul li a {
+
+    text-decoration: none;
+    font-size: 23px;
+    display: block;
+    padding: 10px 10px;
+    color: white;
+}
+
+ul li a:hover{
+    color: red;
+    background-color: green;
+    border-radius: 8px;
+    
+
+}
+.first{
+    height: 654px;
+    
+    display:inline-flex;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    top: 90px;
+    left: 482px;
+    height: 352px;
+}
+    
+.heading h1{
+
+    color: green;
+    position: absolute;
+    left: 56px;
+    top: 236px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.heading h1:hover{
+    color: red;
+}
+
+.heading h2 {
+    position: absolute;
+    top: 300px;
+    
+    font-family: 'MonteCarlo', cursive;
+    left: 16px;
+    font-size: 54px;
+}
+.heading h2:hover{
+    color: green;
+}
+.heading h3 {
+    position: absolute;
+    top: 374px;
+    left: 62px;
+    font-size: 53px;
+    font-family: 'MonteCarlo', cursive;
+    color: blue;
+     }
+     li a, button{
+         padding: 12px 16px;
+         display: inline-block;
+     }
+     .dcontent{
+         position: absolute;
+         background-color: red;
+         display: none;
+     }
+     .dropdown:hover .dcontent{
+         display: block;
+     }
+     .middle {
+        position: absolute;
+        top: 525px;
+        left: 445px;
+    }
+    
+    .Full h2 {
+        position: absolute;
+        top: 632px;
+        left: 61px;
+        background-color: green;
+        font-size: 25px;
+        border-radius: 7px;
+        padding: 10px;
+    }
+    .online h2 {
+        position: absolute;
+        top: 635px;
+        left: 649px;
+        background-color: green;
+        font-size: 25px;
+        border-radius: 7px;
+        padding: 10px;
+    }
+    .Full p {
+        position: absolute;
+        left: 71px;
+        top: 687px;
+        width: 232px;
+        font-size: 20px;
+    }
+    .online p {
+        position: absolute;
+        top: 695px;
+        left: 645px;
+        width: 253px;
+        font-size: 20px;
+    }
+    .Fix p {
+        position: absolute;
+        top: 938px;
+        left: 71px;
+        width: 239px;
+        font-size: 20px;
+    }
+    .Fix h2 {
+        position: absolute;
+        top: 874px;
+        left: 73px;
+        background: green;
+        font-size: 25px;
+        border-radius: 7px;
+        padding: 10px;
+    }
+    .Main h2 {
+        position: absolute;
+        top: 873px;
+        left: 631px;
+        background: green;
+        font-size: 25px;
+        border-radius: 7px;
+        padding: 10px;
+    }
+    .Main p {
+        position: absolute;
+        top: 941px;
+        left: 625px;
+        width: 330px;
+        font-size: 20px;
+    }
+    .How {
+        position: absolute;
+        top: 1110px;
+        left: 319px;
+        background: red;
+        border-radius: 7px;
+        padding: 10px;
+        color: wheat;
+    }
+    .Dis h2
+    {
+        position: absolute;
+        top: 1237px;
+        left: 73px;
+        background: chocolate;
+        font-size: 25px;
+        border-radius: 7px;
+        padding: 10px;
+    }
+    .Dis p{
+        position: absolute;
+        top: 1292px;
+        left: 68px;
+        width: 290px;
+        font-size: 20px;
+    }
+    
+.plan h2 {
+    position: absolute;
+    top: 1234px;
+    left: 391px;
+    background: chocolate;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.plan p {
+    position: absolute;
+    left: 371px;
+    top: 1294px;
+    width: 235px;
+    font-size: 20px;
+}
+.Design h2 {
+    position: absolute;
+    top: 1234px;
+    left: 715px;
+    background: chocolate;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.Design p {
+    position: absolute;
+    top: 1295px;
+    left: 713px;
+    width: 200px;
+    font-size: 20px;
+}
+.code h2 {
+    position: absolute;
+    top: 1526px;
+    left: 76px;
+    background: chocolate;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.code p {
+    position: absolute;
+    top: 1590px;
+    left: 66px;
+    width: 245px;
+    font-size: 20px;
+}
+.submit h2 {
+    position: absolute;
+    top: 1525px;
+    left: 380px;
+    background: chocolate;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.submit p {
+    position: absolute;
+    left: 358px;
+    top: 14oopx;
+    top: 1590px;
+    width: 252px;
+    font-size: 20px;
+}
+.ready h2 {
+    position: absolute;
+    top: 1525px;
+    left: 715px;
+    background: chocolate;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.ready p {
+    top: 1592px;
+    position: absolute;
+    width: 223px;
+    font-size: 20px;
+    left: 721px;
+}
+.let h1 {
+    position: absolute;
+    top: 1828px;
+    left: 295px;
+    background: cornflowerblue;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.let h1:hover {
+    color: white;
+    background: rebeccapurple;
+}
+.contract h2 {
+    position: absolute;
+    top: 1926px;
+    left: 68px;
+    color: black;
+}
+.contract h2:hover{
+    color: violet;
+}
+.contract p {
+    position: absolute;
+    top: 1960px;
+    left: 68px;
+    color: blue;
+    font-size: 21px;
+}
+.call h2 {
+    position: absolute;
+    top: 1989px;
+    left: 67px;
+}
+.call h2:hover{
+    color: red;
+}
+.call p {
+    position: absolute;
+    top: 2022px;
+    left: 68px;
+    font-size: 20px;
+    color: blueviolet;
+}
+.location h2 {
+    position: absolute;
+    top: 2052px;
+    left: 68px;
+}
+.location h2:hover{
+    color:cadetblue ;
+}
+.location p {
+    position: absolute;
+    top: 2090px;
+    left: 68px;
+    font-size: 20px;
+    color: dodgerblue;
+}
+.How h1:hover {
+    color: blue;
+    background: green;
+}
+
+.form {
+    position: absolute;
+    top: 1945px;
+    left: 563px;
+    font-size: 23px;
+    line-height: 42px;
+    color: blueviolet;
+}
+.copyright p {
+    position: absolute;
+    top: 2361px;
+    left: 187px;
+    font-size: 16px;
+    background: teal;
+    padding: 10px;
+    color: wheat;
+    border-radius: 7px;
+}
